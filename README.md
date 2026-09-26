@@ -8,6 +8,19 @@ unless you want to.
 It runs on [Claude Code](https://claude.com/claude-code) with a $20/month
 Claude subscription.
 
+## Contents
+
+- [Why it's built this way](#why-its-built-this-way)
+- [Who's who](#whos-who)
+- [How a project runs](#how-a-project-runs)
+  - [1. Onboarding (happens once)](#1-onboarding-happens-once)
+  - [2. The phase loop (repeats until done)](#2-the-phase-loop-repeats-until-done)
+- [Getting started](#getting-started)
+- [Your responsibilities](#your-responsibilities)
+- [Getting the most out of it](#getting-the-most-out-of-it)
+- [Where things live](#where-things-live)
+- [Ground rules the agents follow](#ground-rules-the-agents-follow)
+
 ---
 
 ## Why it's built this way
