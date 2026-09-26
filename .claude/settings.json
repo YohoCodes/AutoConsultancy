@@ -1,0 +1,9 @@
+{
+  "agent": "consultant_rep_wren",
+  "model": "claude-opus-5-5",
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "medium"
+    }
+  }
+}
