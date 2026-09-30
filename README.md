@@ -216,6 +216,7 @@ Consultancy/
 | | Wren | Tech lead | Developers |
 |---|---|---|---|
 | Talks to you | ✅ | ✅ | ❌ |
+| Talks to agents in other repos | ❌ | ✅ | ❌ |
 | Writes `CLIENT_SPECS.md` / `DESIGN.md` / `PHASES.md` | ❌ | ✅ (spec changes need your approval) | ❌ |
 | Edits the lead's personality | ✅ (and nothing else in that file) | ❌ | ❌ |
 | Writes checklists and tutorials | ❌ | ✅ | ❌ |
